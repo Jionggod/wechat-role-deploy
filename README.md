@@ -2,6 +2,14 @@
 
 > 在微信里与一个有性格、有连续生活和记忆的 AI 角色交流，把日常对话变成沟通与关系相处的练习。
 
+**55 秒看懂：能做什么、skill 是什么、怎么开始。** 点击下方封面播放。
+
+https://github.com/user-attachments/assets/0b551acd-30b3-487d-a703-f7e92fa69e3e
+
+[打开视频](https://github.com/user-attachments/assets/0b551acd-30b3-487d-a703-f7e92fa69e3e) · [视频文案与配乐署名](docs/视频介绍.md)
+
+*AI 角色、虚构生活、对话与流程示意；豆包合成旁白。BGM：[Reverie — Scott Buckley](https://www.scottbuckley.com.au/library/reverie/)，按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 署名使用，已节选与混音。*
+
 这是一个基于 **Windows 电脑＋安卓备用机＋微信** 的 AI 角色部署方案。你在熟悉的微信里聊天，电脑负责角色记忆、生活模拟和模型调用，备用机负责收发消息。
 
 仓库提供简体中文说明、可供 Codex 使用的部署技能（skill）、配置模板和脱敏参考源码。**它不是下载后就能直接聊天的一键软件**，首次使用仍需准备自己的角色资料，并完成设备适配与验证。
