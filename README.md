@@ -2,11 +2,11 @@
 
 > 在微信里与一个有性格、有连续生活和记忆的 AI 角色交流，把日常对话变成沟通与关系相处的练习。
 
-**55 秒看懂：能做什么、skill 是什么、怎么开始。** 点击下方封面播放。
+**55 秒看懂：能做什么、skill 是什么、怎么开始。** 点击下方封面播放，可在播放器中开启声音。
 
 https://github.com/user-attachments/assets/0b551acd-30b3-487d-a703-f7e92fa69e3e
 
-[打开视频](https://github.com/user-attachments/assets/0b551acd-30b3-487d-a703-f7e92fa69e3e) · [视频文案与配乐署名](docs/视频介绍.md)
+[独立观看页面、视频文案与配乐署名](docs/视频介绍.md)
 
 *AI 角色、虚构生活、对话与流程示意；豆包合成旁白。BGM：[Reverie — Scott Buckley](https://www.scottbuckley.com.au/library/reverie/)，按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 署名使用，已节选与混音。*
 
