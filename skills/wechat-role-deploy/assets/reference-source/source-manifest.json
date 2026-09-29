@@ -1,0 +1,121 @@
+{
+  "baseline": "3.5.0",
+  "kind": "sanitized-reference-not-turnkey",
+  "files": [
+    {
+      "path": "audit.py",
+      "bytes": 2899,
+      "sha256": "3518cd40fb9cb5e33fe49dd835883d85eef3207d88544edd9486811caae9759f"
+    },
+    {
+      "path": "bridge_state.py",
+      "bytes": 4065,
+      "sha256": "0f9b93bdbd26cee3cfe1c4f2e2288afcf704d38a1520a815c2b6a2e1352703b0"
+    },
+    {
+      "path": "coaching_review.py",
+      "bytes": 9230,
+      "sha256": "6bdafb2924dd9a1a54009968b66764d4ab5357f8cd148ade68fa5d37abcd3efd"
+    },
+    {
+      "path": "coaching_scenes.py",
+      "bytes": 8905,
+      "sha256": "844cddfef565e4ab704a6a7fea54d4df31c3ab5533ee2290673dff21e21909c2"
+    },
+    {
+      "path": "delivery.py",
+      "bytes": 837,
+      "sha256": "598ab99f2986eaa153f20c64a1f9dbf73e033b35cab1b1f622e7029374d937b1"
+    },
+    {
+      "path": "incoming_media.py",
+      "bytes": 7856,
+      "sha256": "adfaf344764fc2ce0f39cdf92fbd069e86ec7027c600331b4caf967d833deda6"
+    },
+    {
+      "path": "life_plan.py",
+      "bytes": 12736,
+      "sha256": "9c8dbc35f9deba3a68383a39083d1fd698ab396006fab28cc95334bd136c4493"
+    },
+    {
+      "path": "local_runtime.py",
+      "bytes": 7984,
+      "sha256": "53dc1ea8ebadfcdd720f8d335a804b1c7cce29a473b2439977801d9820fd8484"
+    },
+    {
+      "path": "maintenance.py",
+      "bytes": 6099,
+      "sha256": "c393c6bbb76e903301e31e3bf4e149d1924cc78c5c82ed57c25240192b988a9f"
+    },
+    {
+      "path": "media_catalog.py",
+      "bytes": 5115,
+      "sha256": "6e41178901d20fa8673e355ad4bd70546b139fa5a60e56a16d3419f2c314aae9"
+    },
+    {
+      "path": "media_phone.py",
+      "bytes": 1314,
+      "sha256": "f8dc248f8235503da27f7d04a7cc3d1b318adb12658c97da07c22d946b4dd0b1"
+    },
+    {
+      "path": "model_client.py",
+      "bytes": 10605,
+      "sha256": "d0eb64dbabe5ba9f78ece7f7cd3fa01e7e1862e18b3f69bf9e25cd182d2dc3c2"
+    },
+    {
+      "path": "persona_context.py",
+      "bytes": 9241,
+      "sha256": "07dcbe2c1e79428fc72fb871c8e97c7fed9d15b7aa44762156a7ee63d122580c"
+    },
+    {
+      "path": "phone.py",
+      "bytes": 15124,
+      "sha256": "4032e8b487a8bb9e37bee81265d17d274c8082c6008a2123b16f82b7a7b22e30"
+    },
+    {
+      "path": "prompt_context.py",
+      "bytes": 1108,
+      "sha256": "10d805cabd12bb22ea56c2a3710d62b2175ccaad9cac2a86bc8ee072d6bb904c"
+    },
+    {
+      "path": "run.py",
+      "bytes": 26175,
+      "sha256": "e7857629a4acb27cd666f22eb7cc804356e179aed21a9185026d8c3718b7c0c5"
+    },
+    {
+      "path": "screen_power.py",
+      "bytes": 3809,
+      "sha256": "58bfdb7d70cbe6b0077f057e3e0af7950bd759da0d6437cf7a9fc910abc119e5"
+    },
+    {
+      "path": "timeline.py",
+      "bytes": 13292,
+      "sha256": "19e021e95e9800e6baf750d2afb711318e7a2a533587fc07ed0ebec0c33465bb"
+    },
+    {
+      "path": "v3_context.py",
+      "bytes": 5230,
+      "sha256": "8b3aadb74d42b928171387cd39dac9bb69ef64139379998d1a96d31702c767fe"
+    },
+    {
+      "path": "start.ps1",
+      "bytes": 1864,
+      "sha256": "c36262cd644e23a674230f6c9da1b816130deff9f5eabb8a9be41922be5ebaf2"
+    },
+    {
+      "path": "install-local-runtime.ps1",
+      "bytes": 1682,
+      "sha256": "c7567857acf04ca804dfeead7ecc652e1ad2d23a8f358a96e7f912f02a16ba48"
+    },
+    {
+      "path": "persona-adapter/life.py",
+      "bytes": 23906,
+      "sha256": "a9f2308bae34a7b2457ca20103e49922c95fc1374b4fc882385bcf20b3686482"
+    },
+    {
+      "path": "persona-adapter/evidence.py",
+      "bytes": 11792,
+      "sha256": "3e477bc4ffbb16ffaebeaa42f01317e653ef17ee704e08ed1df10d71f6d75895"
+    }
+  ]
+}

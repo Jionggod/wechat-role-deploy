@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信角色真机部署"
+  short_description: "固化真机局域网、熄屏、角色生活记忆、媒体收件与每日复盘的完整部署流程"
+  default_prompt: "使用 $wechat-role-deploy 检查或部署微信AI角色，先验证状态并保持现有角色与发送边界。"
